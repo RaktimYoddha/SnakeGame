@@ -5,7 +5,7 @@
 }
 
 .body{
-    background: url("../img/ww.jpg");
+    background: linear-gradient(to right,#00DBDE,#FC00FF);
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
